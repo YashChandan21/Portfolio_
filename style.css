@@ -464,16 +464,19 @@ a{
 }
 
 #project1{
-    background-image: url(./images/projects/P1.png);
+    background-image: url(./images/projects/ChatAPP.png);
 }
 #project2{
+    background-image: url(./images/projects/P1.png);
+}
+#project3{
     margin-left: 120px;
     background-image: url(./images/projects/P2.png);
 }
-#project3{
+#project4{
     background-image: url(./images/projects/P3.png);
 }
-#project4{
+#project5{
     margin-left: 120px;
     background-image: url(./images/projects/Project4.png);
 }
